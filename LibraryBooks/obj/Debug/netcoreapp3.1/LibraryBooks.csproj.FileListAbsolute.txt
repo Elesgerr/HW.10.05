@@ -1,0 +1,13 @@
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\bin\Debug\netcoreapp3.1\LibraryBooks.exe
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\bin\Debug\netcoreapp3.1\LibraryBooks.deps.json
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\bin\Debug\netcoreapp3.1\LibraryBooks.runtimeconfig.json
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\bin\Debug\netcoreapp3.1\LibraryBooks.runtimeconfig.dev.json
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\bin\Debug\netcoreapp3.1\LibraryBooks.dll
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\bin\Debug\netcoreapp3.1\LibraryBooks.pdb
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\obj\Debug\netcoreapp3.1\LibraryBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\obj\Debug\netcoreapp3.1\LibraryBooks.AssemblyInfoInputs.cache
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\obj\Debug\netcoreapp3.1\LibraryBooks.AssemblyInfo.cs
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\obj\Debug\netcoreapp3.1\LibraryBooks.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\obj\Debug\netcoreapp3.1\LibraryBooks.dll
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\obj\Debug\netcoreapp3.1\LibraryBooks.pdb
+C:\Users\Eli\source\repos\LibraryBooks\LibraryBooks\obj\Debug\netcoreapp3.1\LibraryBooks.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\bin\Debug\netcoreapp3.1\LibraryBooks2.exe
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\bin\Debug\netcoreapp3.1\LibraryBooks2.deps.json
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\bin\Debug\netcoreapp3.1\LibraryBooks2.runtimeconfig.json
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\bin\Debug\netcoreapp3.1\LibraryBooks2.runtimeconfig.dev.json
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\bin\Debug\netcoreapp3.1\LibraryBooks2.dll
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\bin\Debug\netcoreapp3.1\LibraryBooks2.pdb
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\obj\Debug\netcoreapp3.1\LibraryBooks2.csproj.AssemblyReference.cache
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\obj\Debug\netcoreapp3.1\LibraryBooks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\obj\Debug\netcoreapp3.1\LibraryBooks2.AssemblyInfoInputs.cache
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\obj\Debug\netcoreapp3.1\LibraryBooks2.AssemblyInfo.cs
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\obj\Debug\netcoreapp3.1\LibraryBooks2.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\obj\Debug\netcoreapp3.1\LibraryBooks2.dll
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\obj\Debug\netcoreapp3.1\LibraryBooks2.pdb
+C:\Users\Eli\source\repos\LibraryBooks2\LibraryBooks2\obj\Debug\netcoreapp3.1\LibraryBooks2.genruntimeconfig.cache
